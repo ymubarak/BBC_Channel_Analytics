@@ -70,4 +70,4 @@ Video features:
 
 Categories features:
 - **categoryId**: the id of the category.
--  **namev: the name of the category.
+-  **namev**: the name of the category.
