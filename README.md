@@ -2,10 +2,7 @@
 Analyizing the BBC Arabic News Channel  and providing insights on how to enhance the channel's performance.
 
 ## Getting Started
-In this project, we will analyze a dataset containing data on various videos of the BBC Arabic News Youtube channel. One goal of
-this project is to best describe the variation in the different types of videos and playlists and to come up with new insights about the
-data to help enhancing the content and the reachness to viewres. Doing so would equip the channel with insight into the "what" and
-"when" of delivering the content.
+In this project, we will analyze a dataset containing data on various videos of the BBC Arabic News Youtube channel. One goal of this project is to best describe the variation in the different types of videos and playlists and to come up with new insights about the data to help enhancing the content and the reach to viewers. Doing so would equip the channel with insight to the "what" and "when" of delivering the content.
 
 ### Install
 
@@ -43,8 +40,7 @@ The BBC Arabic News Youtube channel, as reported in 23 July 2018, has more than 
 milion views. It has 50 playlists and has uploaded 24377 videos.
 In this project we sampled 2619 videos from the different 50 playlists.
 The dataset for this project can be found in the files; playlists.csv, videos.csv, and categories.csv.
-
-This datasets is collected through YouTube Data API.
+The dataset was collected through YouTube Data API.
 
 ## Featureset Exploration
 Understanding the "playlists" dataset features:
